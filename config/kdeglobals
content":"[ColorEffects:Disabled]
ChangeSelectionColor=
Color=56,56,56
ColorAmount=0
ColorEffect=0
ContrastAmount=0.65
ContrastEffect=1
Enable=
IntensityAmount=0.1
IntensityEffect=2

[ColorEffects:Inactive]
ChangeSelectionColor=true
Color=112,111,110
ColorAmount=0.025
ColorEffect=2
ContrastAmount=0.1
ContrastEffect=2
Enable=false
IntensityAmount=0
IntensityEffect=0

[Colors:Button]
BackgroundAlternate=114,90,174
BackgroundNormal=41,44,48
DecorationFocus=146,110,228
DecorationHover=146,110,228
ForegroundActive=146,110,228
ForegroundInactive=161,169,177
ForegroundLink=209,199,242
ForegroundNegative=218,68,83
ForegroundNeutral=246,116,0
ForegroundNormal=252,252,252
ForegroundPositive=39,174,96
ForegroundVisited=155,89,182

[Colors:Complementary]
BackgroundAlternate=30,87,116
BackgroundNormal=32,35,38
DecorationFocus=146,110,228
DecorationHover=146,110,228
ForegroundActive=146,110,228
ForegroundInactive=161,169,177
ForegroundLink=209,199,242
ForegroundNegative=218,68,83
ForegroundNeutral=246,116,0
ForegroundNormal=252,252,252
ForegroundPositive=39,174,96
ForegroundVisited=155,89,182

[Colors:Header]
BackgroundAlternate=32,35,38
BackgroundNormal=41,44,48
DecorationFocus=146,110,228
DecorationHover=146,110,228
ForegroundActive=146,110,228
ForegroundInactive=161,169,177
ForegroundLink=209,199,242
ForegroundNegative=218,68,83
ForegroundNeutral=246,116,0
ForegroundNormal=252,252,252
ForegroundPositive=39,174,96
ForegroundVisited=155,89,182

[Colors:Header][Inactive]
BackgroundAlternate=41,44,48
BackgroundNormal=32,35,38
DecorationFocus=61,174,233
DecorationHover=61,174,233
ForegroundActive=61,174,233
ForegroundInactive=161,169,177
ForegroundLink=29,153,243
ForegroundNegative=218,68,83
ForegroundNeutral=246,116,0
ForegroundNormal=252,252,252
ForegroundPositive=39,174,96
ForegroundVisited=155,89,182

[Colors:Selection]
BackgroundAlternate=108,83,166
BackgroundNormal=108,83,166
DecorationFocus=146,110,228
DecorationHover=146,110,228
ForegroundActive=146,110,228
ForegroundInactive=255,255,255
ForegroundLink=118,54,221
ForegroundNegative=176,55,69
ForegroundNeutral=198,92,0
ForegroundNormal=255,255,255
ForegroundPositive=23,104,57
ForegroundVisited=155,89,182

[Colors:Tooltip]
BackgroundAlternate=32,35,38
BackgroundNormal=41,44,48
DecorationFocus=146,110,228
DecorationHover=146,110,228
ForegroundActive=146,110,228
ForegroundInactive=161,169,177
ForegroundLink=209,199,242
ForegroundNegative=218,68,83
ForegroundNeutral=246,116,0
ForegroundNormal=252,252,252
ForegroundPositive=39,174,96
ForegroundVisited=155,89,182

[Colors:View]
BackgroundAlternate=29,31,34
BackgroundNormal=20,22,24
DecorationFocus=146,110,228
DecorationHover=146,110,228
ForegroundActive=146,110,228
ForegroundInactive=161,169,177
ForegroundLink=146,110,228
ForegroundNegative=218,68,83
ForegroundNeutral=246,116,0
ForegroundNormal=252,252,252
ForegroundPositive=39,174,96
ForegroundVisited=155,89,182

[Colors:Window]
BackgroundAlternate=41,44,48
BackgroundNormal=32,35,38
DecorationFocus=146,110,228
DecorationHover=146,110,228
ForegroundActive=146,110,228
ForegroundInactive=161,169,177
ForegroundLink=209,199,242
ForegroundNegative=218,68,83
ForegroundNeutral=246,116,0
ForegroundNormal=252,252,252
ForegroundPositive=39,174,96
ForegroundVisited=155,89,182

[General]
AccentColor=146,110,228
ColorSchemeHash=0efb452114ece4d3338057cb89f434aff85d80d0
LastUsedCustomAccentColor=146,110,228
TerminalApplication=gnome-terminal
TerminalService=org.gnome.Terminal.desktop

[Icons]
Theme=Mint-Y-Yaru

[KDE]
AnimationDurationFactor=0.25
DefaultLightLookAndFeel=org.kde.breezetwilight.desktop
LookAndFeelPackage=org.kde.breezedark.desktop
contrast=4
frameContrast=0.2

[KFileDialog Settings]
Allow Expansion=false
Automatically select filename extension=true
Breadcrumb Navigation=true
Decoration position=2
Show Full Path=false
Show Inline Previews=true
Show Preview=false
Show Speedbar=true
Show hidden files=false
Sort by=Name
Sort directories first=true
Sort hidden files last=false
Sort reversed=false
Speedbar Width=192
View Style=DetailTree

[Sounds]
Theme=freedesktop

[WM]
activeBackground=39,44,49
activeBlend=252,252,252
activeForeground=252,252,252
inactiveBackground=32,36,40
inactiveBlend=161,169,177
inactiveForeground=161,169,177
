@@ -1,0 +1,44 @@
+# Arch Rice Installer
+
+This repository contains a minimal one-command installer that sets up the same theme and shell base as your current KDE/KWin + Noctalia configuration.
+
+## One command
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/BlackoneBc/arch-rice/main/install.sh)
+```
+
+## What it sets up
+- Plymouth with `cachyos` theme
+- SDDM with the `silent` theme
+- KWin session entry: `KWin Noctalia`
+- KDE theme values matching your current system
+- Cursor: `Bibata-Modern-Classic`
+- Icons: `Mint-Y-Yaru`
+- Window decoration: `WillowDark`
+- Qt/KDE look: `Breeze Dark`
+- GTK settings and cursor configuration
+- Noctalia config and KWin session entry
+- Spicetify + Marketplace theme
+- Flatpak Spotify + GNOME Software + Pamac
+
+## Included config files
+- `config/kdeglobals`
+- `config/kwinrc`
+- `config/kglobalshortcutsrc`
+- `config/plasmarc`
+- `config/gtk-3.0/settings.ini`
+- `config/gtk-4.0/settings.ini`
+- `config/noctalia/settings.json`
+- `config/noctalia/colors.json`
+- `config/noctalia/plugins.json`
+- `config/spicetify/config-xpui.ini`
+
+## Notes
+This installer intentionally focuses on the exact theme stack and shell setup you want, without trying to reproduce the full software universe of a desktop environment.
+
+It is designed to be used on a fresh Arch installation and then let the user log into the KWin Noctalia session.
+
+## License
+MIT
+

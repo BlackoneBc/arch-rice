@@ -1,0 +1,74 @@
+{
+  "appLauncher": {
+    "autoPasteClipboard": false,
+    "clipboardWatchImageCommand": "wl-paste --type image --watch cliphist store",
+    "clipboardWatchTextCommand": "wl-paste --type text --watch cliphist store",
+    "clipboardWrapText": true,
+    "density": "default",
+    "enableClipPreview": true,
+    "enableClipboardChips": true,
+    "enableClipboardHistory": false,
+    "enableClipboardSmartIcons": true,
+    "enableSessionSearch": true,
+    "enableSettingsSearch": true,
+    "enableWindowsSearch": true,
+    "iconMode": "tabler",
+    "overviewLayer": false,
+    "pinnedApps": [
+      "firefox",
+      "org.gnome.Nautilus",
+      "Alacritty",
+      "discord",
+      "org.gnome.Software",
+      "org.manjaro.pamac.manager",
+      "org.gnome.DiskUtility",
+      "steam",
+      "com.spotify.Client",
+      "org.gnome.Terminal"
+    ],
+    "position": "center",
+    "sortByMostUsed": true,
+    "terminalCommand": "alacritty -e",
+    "viewMode": "list"
+  },
+  "bar": {
+    "barType": "simple",
+    "displayMode": "always_visible",
+    "position": "top",
+    "backgroundOpacity": 0.93,
+    "widgetSpacing": 6
+  },
+  "colorSchemes": {
+    "darkMode": true,
+    "generationMethod": "tonal-spot",
+    "predefinedScheme": "Catppuccin",
+    "syncGsettings": true,
+    "useWallpaperColors": false
+  },
+  "general": {
+    "avatarImage": "/home/lennart/Dokumente/Wallpaper/3d-model.jpg",
+    "language": "de",
+    "telemetryEnabled": false
+  },
+  "wallpaper": {
+    "directory": "/home/lennart/Dokumente/Wallpaper",
+    "enabled": true,
+    "favorites": [
+      {
+        "appearance": "dark",
+        "colorScheme": "Catppuccin",
+        "darkMode": true,
+        "generationMethod": "tonal-spot",
+        "paletteColors": [
+          "#cba6f7",
+          "#fab387",
+          "#94e2d5",
+          "#f38ba8"
+        ],
+        "path": "/home/lennart/Dokumente/Wallpaper/dark-waves.jpg",
+        "useWallpaperColors": false
+      }
+    ],
+    "setWallpaperOnAllMonitors": true
+  }
+}

@@ -1,0 +1,14 @@
+[Desktops]
+Id_1=38df2a52-70a6-4988-94b4-d3d74a97af0d
+Name_1=Arbeitsfläche 6
+Number=1
+Rows=1
+
+[Xwayland]
+Scale=1
+XwaylandEisNoPromptApps=steam
+
+[org.kde.kdecoration2]
+BorderSize=Normal
+library=org.kde.kwin.aurorae.v2
+theme=__aurorae__svg__WillowDark

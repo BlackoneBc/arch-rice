@@ -1,0 +1,77 @@
+[ActivityManager]
+_k_friendly_name=Aktivitätenverwaltung
+switch-to-activity-38160be6-9e00-4e26-8bd0-90be54507bcc=none,none,Zu Aktivität „Standard“ wechseln
+
+[KDE Keyboard Layout Switcher]
+Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Auf zuletzt verwendete Tastaturbelegung umschalten
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Auf nächste Tastaturbelegung umschalten
+_k_friendly_name=Umschaltung der Tastaturbelegung
+
+[kaccess]
+Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Screenreader ein-/ausschalten
+_k_friendly_name=Zugangshilfen
+
+[kmix]
+_k_friendly_name=Lautstärke
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Mikrofonlautstärke verringern
+decrease_volume=Volume Down,Volume Down,Lautstärke verringern
+decrease_volume_small=Shift+Volume Down,Shift+Volume Down,Lautstärke um 1 % verringern
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Mikrofonlautstärke erhöhen
+increase_volume=Volume Up,Volume Up,Lautstärke erhöhen
+increase_volume_small=Shift+Volume Up,Shift+Volume Up,Lautstärke um 1 % erhöhen
+mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mikrofon stummschalten
+mute=Volume Mute,Volume Mute,Stummschalten
+push_to_talk=none,none,Drücken zum Sprechen
+
+[ksmserver]
+Halt Without Confirmation=none,none,Ohne Rückfrage herunterfahren
+Lock Session=Screensaver\tMeta+L,Screensaver\tMeta+L,Sitzung sperren
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Abmeldedialog anzeigen
+Log Out Without Confirmation=none,none,Ohne Rückfrage abmelden
+LogOut=none,none,Abmelden
+Reboot=none,none,Neu starten
+Reboot Without Confirmation=none,none,Ohne Rückfrage neu starten
+Shut Down=none,none,Herunterfahren
+_k_friendly_name=Sitzungsverwaltung
+
+[kwin]
+Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Fenster aktivieren\\, das Aufmerksamkeit erfordert
+Cycle Overview=none,none,Durch Überblick und Rasteransicht wechseln
+Cycle Overview Opposite=none,none,Durch Rasteransicht und Überblick wechseln
+Decrease Opacity=none,none,Die Deckkraft des aktiven Fensters um 5 % verringern
+Edit Tiles=Meta+T,Meta+T,Tiling-Editor ein-/ausschalten
+Expose=Ctrl+F9\tMeta+F9,Ctrl+F9\tMeta+F9,Fenster der aktuellen Arbeitsfläche anzeigen
+ExposeAll=Launch (C)\tCtrl+F10\tMeta+F10,Launch (C)\tCtrl+F10\tMeta+F10,Fenster aller Arbeitsflächen anzeigen
+ExposeClass=Ctrl+F7\tMeta+F7,Ctrl+F7\tMeta+F7,Fenster der Fensterklasse anzeigen
+ExposeClassCurrentDesktop=none,none,Fenster der Fensterklasse auf der aktuellen Arbeitsfläche anzeigen
+Grid View=Meta+G,Meta+G,Übersicht umschalten
+Increase Opacity=none,none,Die Deckkraft des aktiven Fensters um 5 % erhöhen
+Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,Fenster beseitigen
+MoveMouseToCenter=Meta+F6,Meta+F6,Mauszeiger zentrieren
+MoveMouseToFocus=Meta+F5,Meta+F5,Mauszeiger in den Fokus verschieben
+Overview=Meta+W,Meta+W,Übersicht umschalten
+Show Desktop=Meta+D,Meta+D,Blick auf die Arbeitsfläche
+Switch One Desktop Down=Meta+Ctrl+Down,Meta+Ctrl+Down,Eine Arbeitsfläche nach unten
+Switch One Desktop Up=Meta+Ctrl+Up,Meta+Ctrl+Up,Eine Arbeitsfläche nach oben
+Switch One Desktop to the Left=Meta+Ctrl+Left,Meta+Ctrl+Left,Eine Arbeitsfläche nach links
+Switch One Desktop to the Right=Meta+Ctrl+Right,Meta+Ctrl+Right,Eine Arbeitsfläche nach rechts
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Zum Fenster darunter wechseln
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Zum Fenster links wechseln
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Zum Fenster rechts wechseln
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Zum Fenster darüber wechseln
+Switch to Desktop 1=Ctrl+F1\tMeta+F1,Ctrl+F1\tMeta+F1,Auf Arbeitsfläche 1 umschalten
+Switch to Desktop 2=Ctrl+F2\tMeta+F2,Ctrl+F2\tMeta+F2,Auf Arbeitsfläche 2 umschalten
+Switch to Desktop 3=Ctrl+F3\tMeta+F3,Ctrl+F3\tMeta+F3,Auf Arbeitsfläche 3 umschalten
+Switch to Desktop 4=Ctrl+F4\tMeta+F4,Ctrl+F4\tMeta+F4,Auf Arbeitsfläche 4 umschalten
+Window Close=Alt+F4,Alt+F4,Fenster schließen
+Window Maximize=Meta+PgUp,Meta+PgUp,Fenster maximieren
+Window Minimize=Meta+PgDown,Meta+PgDown,Fenster minimieren
+Window Operations Menu=Alt+F3,Alt+F3,Fenstermenü
+Window Quick Tile Left=Meta+Left,Meta+Left,Fenster am linken Bildschirmrand anordnen
+Window Quick Tile Right=Meta+Right,Meta+Right,Fenster am rechten Bildschirmrand anordnen
+Window Quick Tile Top=Meta+Up,Meta+Up,Fenster am oberen Bildschirmrand anordnen
+Window Quick Tile Bottom=Meta+Down,Meta+Down,Fenster am unteren Bildschirmrand anordnen
+Window Restore=Meta+Backspace,Meta+Backspace,Fenster wiederherstellen
+Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,Fenster auf nächsten Bildschirm verschieben
+Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,Fenster auf vorherigen Bildschirm verschieben
+_k_friendly_name=KWin
